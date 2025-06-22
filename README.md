@@ -1,16 +1,33 @@
-## Hi there 👋
+# Sobre mi
 
-<!--
-**LuisDefv/luisdefv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack con experiencia en entornos reales de producción, automatización de tareas, integración de sistemas y desarrollo backend.  
+Apasionado por el aprendizaje continuo y la mejora constante.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SSH-2E8B57?style=for-the-badge&logo=openssh&logoColor=white"/>
+</p>
+
+---
+
+## 🔄 Flujo de trabajo técnico
+
+```mermaid
+graph TD
+    A[Identificación del problema] --> B[Investigación y documentación]
+    B --> C[Uso de herramientas IA como apoyo técnico]
+    C --> D[Diseño e implementación de solución]
+    D --> E[Testeo en entorno controlado]
+    E --> F[Despliegue y monitoreo en producción]
+    F --> G[Análisis de resultados y mejoras]
