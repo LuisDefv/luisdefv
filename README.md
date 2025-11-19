@@ -24,7 +24,7 @@ Apasionado por el aprendizaje continuo y la mejora constante.
 
 ---
 
-## 🔄 Flujo de trabajo técnico
+## Flujo de trabajo técnico
 
 ```mermaid
 graph TD
