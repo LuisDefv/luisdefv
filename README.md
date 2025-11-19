@@ -5,7 +5,7 @@ Apasionado por el aprendizaje continuo y la mejora constante.
 
 ---
 
-## 🛠 Tecnologías
+## Tecnologías
 
 <p align="left">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
