@@ -1,6 +1,6 @@
 # Sobre mi
 
-Desarrollador Full Stack con experiencia en entornos reales de producción, automatización de tareas, integración de sistemas y desarrollo backend.  
+Desarrollador Full Stack con experiencia en entornos reales de producción, automatización de tareas, integración de sistemas y desarrollo Backend o Devops.  
 Apasionado por el aprendizaje continuo y la mejora constante.
 
 ---
